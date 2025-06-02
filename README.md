@@ -1,12 +1,30 @@
-# React + Vite
+# 🥟 Samosa Selector - Incremental Clicker Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Game Screenshot](/src/assets/screenshot.png)  
+*A delicious incremental clicking game built with React and Vite*
 
-Currently, two official plugins are available:
+## Deployment
+[Samosa Selector](https://fastidious-squirrel-c00eef.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo Recording
+[Demo Recording](https://courses.codepath.org/course_images/web102/lab2/stretch-overview-lab1.gif)
 
-## Expanding the ESLint configuration
+## 🎮 About the Game
+Samosa Selector is a fun incremental game inspired by Cookie Clicker. Players click a giant samosa to earn points, then purchase upgrades to increase their samosa production rate.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Key Features:**
+- Click the samosa to earn points
+- Three unlockable upgrades with increasing power
+- Visual feedback with hover/click animations
+- Persistent counter with React state management
+
+## 🛠️ Technologies Used
+- ⚛️ React 18
+- ⚡ Vite (Build tool)
+- 🎨 CSS3 (Styling)
+- 🚀 Netlify (Deployment)
+
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jellyfishing2346/samosa-selector.git
